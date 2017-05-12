@@ -1,7 +1,5 @@
 # Test-Pack
 #Animation pour une présentation de tarifs suivant conditions
-#Bonjour! Grand débutant en POO et JS/Jquery j'ai commis ce script qui comporte des bugs. J'affichais dans une bulle deux tarifs, un #vide et un meublé pour deux formules. J'ai ajouté un deuxième groupe de choix, suivant que le tarif à afficher est mensuel (par défaut) #ou annuel. Et là je n'ai plus rien... Mes ajouts figurent en commentaire de ce code. Merci de votre aide!
-
 $(document).ready(function() {
     // placement de la bulle au chargement de la page
     var control = $('input[type="range"]'),
