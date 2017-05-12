@@ -1,5 +1,4 @@
-# Test-Pack
-#Animation pour une présentation de tarifs suivant conditions
+# Test-Pack#Animation pour une présentation de tarifs suivant conditions
 $(document).ready(function() {
     // placement de la bulle au chargement de la page
     var control = $('input[type="range"]'),
